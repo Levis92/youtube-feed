@@ -1,5 +1,5 @@
 # app.rb
-require 'sinatra'
+require 'sinatra/base'
 
 class YouTubeAPI < Sinatra::Base
     get '/' do
