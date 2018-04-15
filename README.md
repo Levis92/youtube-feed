@@ -4,3 +4,4 @@ A small hobby project to play with the Ruby framework Sinatra and the Youtube AP
 ## Resources
 - [Youtube API](https://developers.google.com/youtube/)
 - [Sinatra](http://sinatrarb.com/)
+- [Bundler](https://bundler.io)
